@@ -53,7 +53,7 @@ export async function getPageConfig(db, env) {
         {
             id: 'siteTitle',
             label: '网站标题',
-            placeholder: 'Sanyue ImgHub',
+            placeholder: 'Sanyue I1mgHub',
             category: '全局设置',
         },
         {
@@ -64,7 +64,7 @@ export async function getPageConfig(db, env) {
         {
             id: 'ownerName',
             label: '图床名称',
-            placeholder: 'Sanyue ImgHub',
+            placeholder: 'Sanyue I2mgHub',
             category: '全局设置',
         },
         {
